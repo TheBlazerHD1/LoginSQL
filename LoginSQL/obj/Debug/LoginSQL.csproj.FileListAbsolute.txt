@@ -1,0 +1,11 @@
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\bin\Debug\LoginSQL.exe.config
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\bin\Debug\LoginSQL.exe
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\bin\Debug\LoginSQL.pdb
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.frmPrin.resources
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.Login.resources
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.Properties.Resources.resources
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.csproj.GenerateResource.cache
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.exe
+C:\Users\joser\source\repos\LoginSQL\LoginSQL\obj\Debug\LoginSQL.pdb
